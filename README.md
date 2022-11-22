@@ -1,6 +1,9 @@
-Trust your source.
 
-Trust your decisions
+### $${\color{white} Trust \space your \space \color{orange}source}$$
+
+### $${\color{white} Trust \space your \space decisions}$$
+
+
 
 ### 📈 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HRemonen&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
